@@ -1,0 +1,116 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    background-color: #1a1a1a;
+}
+.navbar-brand, .nav-link {
+    color: #ffffff;
+}
+.header {
+    text-align: center;
+    padding: 50px 0;
+}
+.header h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #00FFFF;
+}
+.header h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+.header p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+.profile-pic {
+    max-width: 100%;
+    height: auto;
+}
+.social-icons a {
+    color: #ffffff;
+    margin: 0 10px;
+    font-size: 1.5rem;
+}
+.resume-btn {
+    margin-top: 20px;
+}
+.logo{
+    
+    height: 80px;
+}
+.na{
+    margin-right: 80px;
+}
+
+
+.portfolio-section {
+    background-color: #000000;
+    
+    
+}
+
+.portfolio-section h2 {
+    color: #ffffff;
+    font-size: 40px;
+}
+
+.content h3 {
+    color: #007bff;
+    font-size: 1.5rem;
+}
+
+.content p {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.content ul {
+    padding-left: 20px;
+}
+
+.content ul li {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.tech-stack .badge {
+    margin-right: 5px;
+    font-size: 0.9rem;
+}
+.badge{
+    background-color: #6C757D;
+}
+
+.section-title {
+    margin-top: 30px;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+.education-title {
+    color: #00FFFF;
+    font-size: 1.75rem;
+}
+.work{
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.contact-form {
+    background-color: #000000;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(211, 179, 179, 0.5);
+  }
+  .contact-form input, .contact-form textarea {
+    background-color: #555;
+    border: none;
+    color: white;
+  }
+  .contact-form input::placeholder, .contact-form textarea::placeholder {
+    color: #ccc;
+  }
+ 
